@@ -19,12 +19,19 @@
     border: 2px solid black
 }
 
+.greenBtn:active {
+    background-color: rgb(33, 114, 69);
+}
 .orangeBtn {
     height:60px;
     width:75px;
     font-size: 20px;
     background-color: #FF8F1F;
     border: 2px solid black
+}
+
+.orangeBtn:active {
+    background-color: #b4620f;
 }
 
 .blueBtn {
@@ -35,12 +42,20 @@
     border: 2px solid black
 }
 
+.blueBtn:active {
+    background-color: rgb(26, 97, 168);
+}
+
 .bigGreenBtn {
     height:60px;
     width:150px;
     font-size: 20px;
     background-color: rgb(66, 199, 126);
     border: 2px solid black
+}
+
+.bigGreenBtn:active {
+    background-color: rgb(33, 114, 69);
 }
 
 .rowOne {
